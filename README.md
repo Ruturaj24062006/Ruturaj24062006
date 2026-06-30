@@ -1,7 +1,4 @@
 <img src="assets/hero-banner.svg" width="100%" alt="Ruturaj Ambure Header" style="border-radius: 6px;" />
-
----
-
 ### Introduction
 
 B.Tech undergraduate in Artificial Intelligence and Data Science at Vishwakarma Institute of Technology, Pune (CGPA: 8.67/10). Focus lies in developing production-grade machine learning models, neural network architectures, and secure software solutions. Experienced in developing full-stack web products and coordinating industry-sponsored engineering projects.
