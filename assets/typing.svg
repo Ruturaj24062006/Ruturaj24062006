@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="40" viewBox="0 0 600 40" fill="none">
+  <foreignObject x="0" y="0" width="600" height="40">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        .container {
+          font-family: 'Fira Code', 'Courier New', Courier, monospace;
+          font-size: 14px;
+          color: #2dd4bf;
+          font-weight: 600;
+          display: inline-block;
+          border-right: 2px solid #38bdf8;
+          white-space: nowrap;
+          overflow: hidden;
+          width: 0;
+          animation: type 6s steps(60, end) infinite, blink 0.8s step-end infinite;
+          padding-bottom: 2px;
+        }
+        @keyframes type {
+          0% { width: 0; }
+          40%, 80% { width: 100%; }
+          100% { width: 0; }
+        }
+        @keyframes blink {
+          from, to { border-color: transparent }
+          50% { border-color: #38bdf8; }
+        }
+      </style>
+      <div class="container">Building intelligent agentic systems &amp; production-grade full-stack web products...</div>
+    </div>
+  </foreignObject>
+</svg>
