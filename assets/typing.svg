@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="600" height="40" viewBox="0 0 600 40" fill="none">
-  <foreignObject x="0" y="0" width="600" height="40">
+<svg xmlns="http://www.w3.org/2000/svg" width="650" height="40" viewBox="0 0 650 40" fill="none">
+  <foreignObject x="0" y="0" width="650" height="40">
     <div xmlns="http://www.w3.org/1999/xhtml">
       <style>
         .container {
@@ -12,7 +12,7 @@
           white-space: nowrap;
           overflow: hidden;
           width: 0;
-          animation: type 6s steps(60, end) infinite, blink 0.8s step-end infinite;
+          animation: type 6s steps(65, end) infinite, blink 0.8s step-end infinite;
           padding-bottom: 2px;
         }
         @keyframes type {
@@ -25,7 +25,7 @@
           50% { border-color: #38bdf8; }
         }
       </style>
-      <div class="container">Building intelligent agentic systems &amp; production-grade full-stack web products...</div>
+      <div class="container">Developing industrial-grade AI models, secure systems, &amp; full-stack web solutions...</div>
     </div>
   </foreignObject>
 </svg>
