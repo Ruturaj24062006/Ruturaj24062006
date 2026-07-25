@@ -1,156 +1,102 @@
-<img src="assets/hero-banner.svg" width="100%" alt="Ruturaj Ambure" />
-
-<br /><br />
-
-<div align="left">
-  <strong>Ruturaj Ambure</strong> &bull; Applied Machine Learning &amp; Systems Engineer
-  <br />
-  <code>ruturajambure@gmail.com</code> &bull; <a href="https://linkedin.com/in/ruturaj-ambure">LinkedIn</a> &bull; <a href="https://github.com/Ruturaj24062006">GitHub</a>
+<div align="center">
+  <img src="assets/hero-banner.svg" width="100%" alt="Ruturaj Ambure — AI/ML Engineer Banner" />
 </div>
 
 <br />
 
-I am an engineer focused on applied machine learning, neural architectures, and robust systems design. Currently pursuing a B.Tech in Artificial Intelligence &amp; Data Science at Vishwakarma Institute of Technology, Pune (CGPA: 8.67/10), I specialize in building end-to-end intelligent systems, secure data architectures, and deploying production-grade ML pipelines.
+## Hi, I'm Ruturaj 👋
 
----
+AI & Data Science undergraduate at VIT Pune focused on building practical AI/ML systems — from computer vision and predictive modeling to secure, production-ready applications.
 
-### ── Key Capabilities
-
-* **Systems Architecture**: Experienced in designing modular backend microservices, structured database schemas, and robust API endpoints with high operational security.
-* **Applied Machine Learning**: Practical implementation of computer vision pipelines, including U-Net semantic segmentation, ResNet50 classification, and PaddleOCR document analysis.
-* **Security &amp; Cryptography**: Implementation of secure systems incorporating steganography algorithms and standard encryption protocols (AES-256) for data transit.
-* **Core CS Foundations**: Strong analytical foundations in Data Structures &amp; Algorithms, Object-Oriented Programming (OOP), and Database Management Systems (DBMS).
-
----
-
-### ── Sponsored Engineering Experience
-
-**Indian Railways (Nagpur Division)**  
-*Project Developer &mdash; Sponsored Project* | *April 2026 – June 2026*
-* **Systems Architecture**: Engineered a centralized, role-based operational inspection and evaluation platform to monitor safety compliance metrics across multiple railway stations.
-* **Workflow Automation**: Designed automated reporting pipelines, optimizing report generation speeds and compliance auditing efficiency.
-* **Database Engineering**: Modeled schema constraints and indexing strategies for a high-concurrency database to track safety inspection data.
-
-<br />
-
-**Cravita Technologies India Pvt. Ltd.**  
-*Project Developer &mdash; Sponsored Project* | *August 2025 – November 2025*
-* **LLM Integration**: Built a secure incident tracking system utilizing LLM APIs to analyze ticket logs and automate resolution recommendations.
-* **Event Notifications**: Configured SMTP-based alerting workflows to reduce operational turnaround times by dispatching immediate notifications to support staff.
-* **Security Policies**: Implemented strict authentication checks and input filtering protocols to secure system endpoints.
+<div align="left">
+  <img src="https://img.shields.io/badge/Python-0a1226?style=flat-square&logo=python&logoColor=38bdf8&labelColor=0a1226" alt="Python" />
+  <img src="https://img.shields.io/badge/C%2B%2B-0a1226?style=flat-square&logo=cplusplus&logoColor=38bdf8&labelColor=0a1226" alt="C++" />
+  <img src="https://img.shields.io/badge/PyTorch-0a1226?style=flat-square&logo=pytorch&logoColor=38bdf8&labelColor=0a1226" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/Scikit--learn-0a1226?style=flat-square&logo=scikit-learn&logoColor=38bdf8&labelColor=0a1226" alt="Scikit-learn" />
+  <img src="https://img.shields.io/badge/OpenCV-0a1226?style=flat-square&logo=opencv&logoColor=38bdf8&labelColor=0a1226" alt="OpenCV" />
+  <img src="https://img.shields.io/badge/FastAPI-0a1226?style=flat-square&logo=fastapi&logoColor=38bdf8&labelColor=0a1226" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/PostgreSQL-0a1226?style=flat-square&logo=postgresql&logoColor=38bdf8&labelColor=0a1226" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/React-0a1226?style=flat-square&logo=react&logoColor=38bdf8&labelColor=0a1226" alt="React" />
+  <img src="https://img.shields.io/badge/Git-0a1226?style=flat-square&logo=git&logoColor=38bdf8&labelColor=0a1226" alt="Git" />
+  <img src="https://img.shields.io/badge/AWS-0a1226?style=flat-square&logo=amazon-aws&logoColor=38bdf8&labelColor=0a1226" alt="AWS" />
+</div>
 
 ---
 
 ### ── Featured Projects
 
-<table width="100%">
+> ### 🧬 [TumorVerse — AI-Powered Cancer Analysis](https://github.com/Ruturaj24062006)
+> `Deep Learning` &bull; `Computer Vision` &bull; `U-Net` &bull; `PyTorch` &bull; `FastAPI`
+> 
+> Multimodal AI platform combining cancer prediction, medical-image analysis, tumor segmentation, and 3D tumor visualization.
+> * **High-Precision Segmentation**: Implemented custom U-Net segmentation pipelines for digital pathology boundary detection and ResNet50 for tissue classification.
+> * **Interactive Diagnostics**: Built FastAPI inference endpoints coupled with 3D visualization layers to reconstruct and render tumor volumes.
+
+> ### 🔑 [KeyForge — API Key Management Platform](https://github.com/Ruturaj24062006)
+> `Spring Boot` &bull; `PostgreSQL` &bull; `JWT` &bull; `React` &bull; `SSE`
+> 
+> Multi-tenant developer platform for secure API-key lifecycle management, auditing, authentication, and real-time usage monitoring.
+> * **Robust Security Core**: Designed zero-trust authentication mechanisms with JSON Web Tokens (JWT) and role-based access control (RBAC).
+> * **Real-Time Auditing**: Engineered event-streaming pipelines utilizing Server-Sent Events (SSE) to deliver instant key activity and usage updates.
+
+> ### 🌡️ [Urban Heat Mitigation using AI/ML](https://github.com/Ruturaj24062006)
+> `Machine Learning` &bull; `Remote Sensing` &bull; `Geospatial AI` &bull; `Python`
+> 
+> AI-driven research system for detecting urban heat hotspots and recommending optimized cooling interventions.
+> * **Geospatial Processing**: Parsed remote sensing satellite datasets to trace land surface temperature anomalies and identify urban heat islands.
+> * **Strategic Interventions**: Modeled heat vulnerability indexes and simulated optimization algorithms to recommend cooling corridors and tree cover placements.
+
+---
+
+### ── Engineering Experience
+
+**Indian Railways (Nagpur Division)**  
+*Project Developer (Sponsored)* | *April 2026 – June 2026*
+* Engineered a centralized operational compliance and evaluation portal to trace inspector reports across regional railway stations.
+* Designed automated reporting and PDF generation workflows, reducing compilation and audit cycles.
+* Designed database indexing strategies and constraints to secure concurrent inspection logs.
+
+**Cravita Technologies India Pvt. Ltd.**  
+*Project Developer (Sponsored)* | *August 2025 – November 2025*
+* Integrated LLM APIs to parse support ticket descriptions, automate incident classification, and generate response recommendations.
+* Set up SMTP alerting hooks, accelerating ticketing dispatch times to support teams.
+* Audited input serialization logic to guard endpoints against injection vulnerabilities.
+
+---
+
+### ── Research & Current Focus
+
+I am actively exploring advanced architectures and methodologies in the following domains:
+
+* 👁️ **Computer Vision & Deep Learning**: Semantic segmentation, medical-image computing, and object detection.
+* 📊 **Applied Machine Learning**: Custom dataset pipeline optimization and predictive model training.
+* 🗺️ **Geospatial AI**: Processing remote sensing datasets and spatial analysis with machine learning.
+* 🧠 **Intelligent Decision Systems**: Structured rule evaluation, recommendation models, and audit frameworks.
+* 🚀 **Production ML Systems**: High-concurrency APIs, system security, and endpoint latency reduction.
+
+---
+
+### ── Performance & Activity
+
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
-    <td>
-      <h4>🌐 TumorVerse — Virtual Cancer Simulation Using AI</h4>
-      <p><strong>Challenge &amp; Solution:</strong> Manual delineation of cell regions in digital pathology is slow and subject to reader variance. Created a computer vision pipeline incorporating U-Net structures for cell boundary detection and ResNet50 for tissue classification.</p>
-      <p><strong>Impact:</strong> Automated high-precision cell segmentation and tumor boundary identification, ensuring repeatable analysis metrics.</p>
-      <p><strong>Stack:</strong> <code>Python</code> &bull; <code>PyTorch</code> &bull; <code>XGBoost</code> &bull; <code>U-Net</code> &bull; <code>ResNet50</code></p>
-      <a href="https://github.com/Ruturaj24062006">Code Repository</a>
+    <td width="50%" align="center" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api?username=Ruturaj24062006&show_icons=true&theme=default&bg_color=050b18&title_color=38bdf8&text_color=94a3b8&icon_color=38bdf8&border_color=1e293b&hide_border=false" alt="Ruturaj's GitHub Stats" width="100%" />
     </td>
-  </tr>
-</table>
-
-<br />
-
-<table width="100%">
-  <tr>
-    <td>
-      <h4>🔒 StegoVault — Secure Data Hiding System</h4>
-      <p><strong>Challenge &amp; Solution:</strong> Plaintext keys and sensitive payloads are vulnerable to interception during transmission. Engineered a digital steganography application that embeds encrypted keys within image pixel matrices using strict OOP design.</p>
-      <p><strong>Impact:</strong> Enabled secure, zero-perceptible payload transmission with strict isolation and AES-256 encryption.</p>
-      <p><strong>Stack:</strong> <code>Python</code> &bull; <code>React.js</code> &bull; <code>OpenCV</code> &bull; <code>Cryptography</code></p>
-      <a href="https://github.com/Ruturaj24062006">Code Repository</a>
-    </td>
-  </tr>
-</table>
-
-<br />
-
-<table width="100%">
-  <tr>
-    <td>
-      <h4>📊 KARTA — AI Credit Appraisal Platform</h4>
-      <p><strong>Challenge &amp; Solution:</strong> Manual extraction from multilingual documents slows down credit evaluation. Built an appraisal engine featuring 6 analytical modules combining OCR text extraction and machine learning risk models.</p>
-      <p><strong>Impact:</strong> Extracted and evaluated over 40+ indicators to output explainable risk scores, automating financial document intake.</p>
-      <p><strong>Stack:</strong> <code>FastAPI</code> &bull; <code>React.js</code> &bull; <code>PostgreSQL</code> &bull; <code>PaddleOCR</code> &bull; <code>XGBoost</code></p>
-      <a href="https://github.com/Ruturaj24062006">Code Repository</a>
+    <td width="50%" align="center" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruturaj24062006&layout=compact&theme=default&bg_color=050b18&title_color=38bdf8&text_color=94a3b8&border_color=1e293b&hide_border=false" alt="Ruturaj's Top Languages" width="100%" />
     </td>
   </tr>
 </table>
 
 ---
-
-### ── Technical Expertise
-
-* **Languages**: `C/C++` &bull; `Python` &bull; `JavaScript` &bull; `TypeScript` &bull; `SQL`
-* **AI &amp; Machine Learning**: `PyTorch` &bull; `XGBoost` &bull; `CNN` &bull; `U-Net` &bull; `Deep Learning` &bull; `Image Processing` &bull; `PaddleOCR`
-* **Backend &amp; Web**: `Node.js` &bull; `Express` &bull; `FastAPI` &bull; `RESTful APIs`
-* **Frontend**: `React.js` &bull; `HTML5` &bull; `CSS3` &bull; `Tailwind CSS`
-* **Databases &amp; Storage**: `PostgreSQL` &bull; `MySQL`
-* **Developer Tools**: `Git` &bull; `GitHub` &bull; `VS Code` &bull; `OOP` &bull; `DBMS` &bull; `Computer Networks`
-
----
-
-### ── Achievements
-
-<table width="100%">
-  <tr>
-    <td width="33%" valign="top">
-      <h5>📜 Patents Published</h5>
-      <p>Published 2 patents through the Indian Patent Office in Web Applications and Generative AI-Based Incident Management.</p>
-    </td>
-    <td width="33%" valign="top">
-      <h5>🎓 Advanced AI Bootcamp</h5>
-      <p>Successfully completed the Advanced Artificial Intelligence Bootcamp conducted by C-DAC Pune under the MeitY &amp; NASSCOM FutureSkills PRIME initiative.</p>
-    </td>
-    <td width="33%" valign="top">
-      <h5>💻 DSA Milestones</h5>
-      <p>Solved 250+ Data Structures &amp; Algorithms problems across LeetCode and Coding Ninjas.</p>
-    </td>
-  </tr>
-</table>
-
----
-
-### ── Analytics &amp; Contributions
 
 <div align="center">
-  <table border="0" cellpadding="0" cellspacing="0" width="100%">
-    <tr>
-      <td width="50%" align="center" valign="top">
-        <img src="https://github-readme-stats.vercel.app/api?username=Ruturaj24062006&show_icons=true&theme=github_dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d&hide_border=false" alt="Ruturaj's GitHub Stats" />
-      </td>
-      <td width="50%" align="center" valign="top">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruturaj24062006&layout=compact&theme=github_dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=30363d&hide_border=false" alt="Ruturaj's Top Languages" />
-      </td>
-    </tr>
-  </table>
+  <h3>── Connect With Me ──</h3>
+  <a href="mailto:ruturajambure@gmail.com"><img src="https://img.shields.io/badge/Email-0a1226?style=flat-square&logo=gmail&logoColor=38bdf8&labelColor=0a1226" alt="Email" /></a>&nbsp;
+  <a href="https://linkedin.com/in/ruturaj-ambure"><img src="https://img.shields.io/badge/LinkedIn-0a1226?style=flat-square&logo=linkedin&logoColor=38bdf8&labelColor=0a1226" alt="LinkedIn" /></a>&nbsp;
+  <a href="https://github.com/Ruturaj24062006"><img src="https://img.shields.io/badge/GitHub-0a1226?style=flat-square&logo=github&logoColor=38bdf8&labelColor=0a1226" alt="GitHub" /></a>
   
-  <br />
-  
-  <table border="0" cellpadding="0" cellspacing="0" width="100%">
-    <tr>
-      <td align="center" valign="top">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ruturaj24062006&theme=github_dark&background=0d1117&fire=58a6ff&ring=58a6ff&border=30363d&hide_border=false" alt="Ruturaj's Streak Stats" />
-      </td>
-    </tr>
-  </table>
-  
-  <br />
-  
-  <h4>Interactive Contribution Timeline</h4>
-  <img src="https://raw.githubusercontent.com/Ruturaj24062006/Ruturaj24062006/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Grid" width="100%" />
-</div>
-
-<br /><br />
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ruturaj24062006&color=58a6ff&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
   <br /><br />
-  <sub>Ruturaj Ambure &bull; 2026</sub>
+  <sub>&copy; 2026 Ruturaj Ambure &bull; Built for modern AI &amp; systems research.</sub>
 </div>
