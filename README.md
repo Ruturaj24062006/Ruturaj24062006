@@ -94,7 +94,7 @@ I am actively exploring advanced architectures and methodologies in the followin
 <div align="center">
   <h3>── Connect With Me ──</h3>
   <a href="mailto:ruturajambure@gmail.com"><img src="https://img.shields.io/badge/Email-0a1226?style=flat-square&logo=gmail&logoColor=38bdf8&labelColor=0a1226" alt="Email" /></a>&nbsp;
-  <a href="https://linkedin.com/in/ruturaj-ambure"><img src="https://img.shields.io/badge/LinkedIn-0a1226?style=flat-square&logo=linkedin&logoColor=38bdf8&labelColor=0a1226" alt="LinkedIn" /></a>&nbsp;
+  <a href="https://www.linkedin.com/in/ruturaj-ambure-2b3385327"><img src="https://img.shields.io/badge/LinkedIn-0a1226?style=flat-square&logo=linkedin&logoColor=38bdf8&labelColor=0a1226" alt="LinkedIn" /></a>&nbsp;
   <a href="https://github.com/Ruturaj24062006"><img src="https://img.shields.io/badge/GitHub-0a1226?style=flat-square&logo=github&logoColor=38bdf8&labelColor=0a1226" alt="GitHub" /></a>
   
   <br /><br />
